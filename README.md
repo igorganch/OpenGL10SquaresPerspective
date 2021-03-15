@@ -3,5 +3,6 @@
 # How to Start 
 ### Download the git repository to your desktop
 # Functionality
-## Zoming in and out by pressing "W" key to zoom in and "S" key zoom out
-
+## Zoming in and out by pressing "W" key to zoom in slowly and "S" key zoom out slowly
+### Zoomed out
+![SCREENSHOT](https://github.com/igorganch/OpenGL10SquaresPerspective/blob/main/Zoomout.PNG)
